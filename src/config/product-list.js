@@ -3,10 +3,10 @@ export default [
         image: 1,
         images: [1,2,3
           ],
-        discount: 10, category: 'popular',
-        pricing: 'Per-Plot',
-        price:'4.5M',
-        name: 'La vie Court',
+        discount: 10, category: 'La vie Court',
+        pricing: 'PER-PLOT',
+        price:'5M',
+        name: '4 Bedrooms Duplex',
         description: '4 Bedrooms Duplex with Attached BQ sitting on 400sqm', 
         status: `Avaliable`, 
         rating: 4.6,
@@ -20,171 +20,97 @@ export default [
         image: 2,
         images: [1,2,3
           ],
-        discount: 25, category: 'popular',
-        pricing: 'Per-Plot',
-        price:'4.5M',
-        name: 'La vie Court',
-        description: '4 Bedrooms Duplex with Attached BQ sitting on 400sqm', 
+        discount: 25, category: 'La vie Court',
+        pricing: 'PER-PLOT',
+        price:'3.5M',
+        name: '4Bedrooms Terrace Duplex',
+        description: 'It’s a 4Bedrooms Terrace Duplex with BQ sitting on 250SQM', 
         status: `Avaliable`, 
         rating: 4.6,
         location: 'Trade more Estate / Voice of Nigeria Sabon lugbe East Extention',
-        content: `
-         <div>The Entrance together with a line of 4Bedrooms Terrace Duplex with BQ sitting on 250sqm 3.5m for each plot</div>
-         <p>La vie Court Has 2 house Types Duplex and Terrace.</p>
+        content: ` 
         `
     },
      {
         image: 3,
         images: [1,2,3
           ],
-        discount: 25, category: 'popular',
-        pricing: 'Per-Plot',
-        price:'4.5M',
-        name: 'La vie Court',
-        description: '4 Bedrooms Duplex with Attached BQ sitting on 400sqm', 
+        discount: 25, category: 'LA VIE DIAMOND',
+        pricing: 'PER-PLOT',
+        price: '5.5M',
+        name: '4 Bedrooms Duplex',
+        description: 'It is a 4 Bedrooms Duplex with an attached Bq Sitting on 470SQM', 
         status: `Avaliable`, 
-        rating: 4.6,
+        rating: '5.0',
         location: 'Trade more Estate / Voice of Nigeria Sabon lugbe East Extention',
         content: `
-         <div>The Entrance together with a line of 4Bedrooms Terrace Duplex with BQ sitting on 250sqm 3.5m for each plot</div>
-         <p>La vie Court Has 2 house Types Duplex and Terrace.</p>
+         <div></div>
         `
     },
      {
         image: 4,
         images: [1,2,3
           ],
-        discount: 25, category: 'popular',
-        pricing: 'Per-Plot',
-        price:'4.5M',
-        name: 'La vie Court',
-        description: '4 Bedrooms Duplex with Attached BQ sitting on 400sqm', 
+        discount: 25, category: 'LA VIE ESTATE',
+        pricing: 'NET PRICE',
+        price:'8M',
+        name: '5 Bedrooms Duplex',
+        description: 'It is a 5 Bedroom Duplex with 2 rooms and BQ sitting on 600SQM', 
         status: `Avaliable`, 
-        rating: 4.6,
-        location: 'Trade more Estate / Voice of Nigeria Sabon lugbe East Extention',
+        rating: '5.0',
+        location: 'Sabon lugbe East Extention beside Shallom Estate on Trademore / Voice of Nigeria Road',
         content: `
-         <div>The Entrance together with a line of 4Bedrooms Terrace Duplex with BQ sitting on 250sqm 3.5m for each plot</div>
-         <p>La vie Court Has 2 house Types Duplex and Terrace.</p>
+         <div></div>
+
         `
     },
      {
         image: 5,
         images: [1,2,3
           ],
-        discount: 25, category: 'popular',
-        pricing: 'Per-Plot',
-        price:'4.5M',
-        name: 'La vie Court',
-        description: '4 Bedrooms Duplex with Attached BQ sitting on 400sqm', 
+        discount: 25, category: 'LA VIE ESTATE',
+        pricing: 'PER-PLOT',
+        price:'5M',
+        name: '4/5 Bedrooms Penthouse',
+        description: 'It is a 4 Bedrooms Duplex with Attached Bq. sitting on 450sqm', 
         status: `Avaliable`, 
-        rating: 4.6,
-        location: 'Trade more Estate / Voice of Nigeria Sabon lugbe East Extention',
+        rating: '5.0',
+        location: 'Shallom Estate Sabon lugbe East Extention',
         content: `
-         <div>The Entrance together with a line of 4Bedrooms Terrace Duplex with BQ sitting on 250sqm 3.5m for each plot</div>
-         <p>La vie Court Has 2 house Types Duplex and Terrace.</p>
+         
         `
     },
      {
         image: 6,
         images: [1,2,3
           ],
-        discount: 25, category: 'popular',
-        pricing: 'Per-Plot',
-        price:'4.5M',
-        name: 'La vie Court',
-        description: '4 Bedrooms Duplex with Attached BQ sitting on 400sqm', 
+        discount: 25, category: 'LA VIE ESTATE',
+        pricing: 'NET PRICE',
+        price:'6M',
+        name: '4 Bedrooms Duplex',
+        description: 'with Attached BQ sitting on 500sqm', 
         status: `Avaliable`, 
-        rating: 4.6,
-        location: 'Trade more Estate / Voice of Nigeria Sabon lugbe East Extention',
+        rating: '5.0',
+        location: 'Shallom Estate Sabon lugbe East Extention',
         content: `
-         <div>The Entrance together with a line of 4Bedrooms Terrace Duplex with BQ sitting on 250sqm 3.5m for each plot</div>
-         <p>La vie Court Has 2 house Types Duplex and Terrace.</p>
+         
         `
     },
      {
         image: 7,
         images: [1,2,3
           ],
-        discount: 25, category: 'popular',
-        pricing: 'Per-Plot',
+        discount: 25, category: 'LA VIE ESTATE',
+        pricing: 'NET PRICE',
         price:'4.5M',
-        name: 'La vie Court',
-        description: '4 Bedrooms Duplex with Attached BQ sitting on 400sqm', 
+        name: '4 Bedrooms Duplex',
+        description: '4 Bedrooms Duplex sitting on 350sqm', 
         status: `Avaliable`, 
-        rating: 4.6,
-        location: 'Trade more Estate / Voice of Nigeria Sabon lugbe East Extention',
+        rating: '5.0',
+        location: 'Shallom Estate Sabon lugbe East Extention',
         content: `
-         <div>The Entrance together with a line of 4Bedrooms Terrace Duplex with BQ sitting on 250sqm 3.5m for each plot</div>
-         <p>La vie Court Has 2 house Types Duplex and Terrace.</p>
+
         `
     },
-     {
-        image: 8,
-        images: [1,2,3
-          ],
-        discount: 25, category: 'popular',
-        pricing: 'Per-Plot',
-        price:'4.5M',
-        name: 'La vie Court',
-        description: '4 Bedrooms Duplex with Attached BQ sitting on 400sqm', 
-        status: `Avaliable`, 
-        rating: 4.6,
-        location: 'Trade more Estate / Voice of Nigeria Sabon lugbe East Extention',
-        content: `
-         <div>The Entrance together with a line of 4Bedrooms Terrace Duplex with BQ sitting on 250sqm 3.5m for each plot</div>
-         <p>La vie Court Has 2 house Types Duplex and Terrace.</p>
-        `
-    },
-     {
-        image: 9,
-        images: [1,2,3
-          ],
-        discount: 25, category: 'popular',
-        pricing: 'Per-Plot',
-        price:'4.5M',
-        name: 'La vie Court',
-        description: '4 Bedrooms Duplex with Attached BQ sitting on 400sqm', 
-        status: `Avaliable`, 
-        rating: 4.6,
-        location: 'Trade more Estate / Voice of Nigeria Sabon lugbe East Extention',
-        content: `
-         <div>The Entrance together with a line of 4Bedrooms Terrace Duplex with BQ sitting on 250sqm 3.5m for each plot</div>
-         <p>La vie Court Has 2 house Types Duplex and Terrace.</p>
-        `
-    },
-     {
-        image: 10,
-        images: [1,2,3
-          ],
-        discount: 25, category: 'popular',
-        pricing: 'Per-Plot',
-        price:'4.5M',
-        name: 'La vie Court',
-        description: '4 Bedrooms Duplex with Attached BQ sitting on 400sqm', 
-        status: `Avaliable`, 
-        rating: 4.6,
-        location: 'Trade more Estate / Voice of Nigeria Sabon lugbe East Extention',
-        content: `
-         <div>The Entrance together with a line of 4Bedrooms Terrace Duplex with BQ sitting on 250sqm 3.5m for each plot</div>
-         <p>La vie Court Has 2 house Types Duplex and Terrace.</p>
-        `
-    },
-     {
-        image: 11,
-        images: [1,2,3
-          ],
-        discount: 25, category: 'popular',
-        pricing: 'Per-Plot',
-        price:'4.5M',
-        name: 'La vie Court',
-        description: '4 Bedrooms Duplex with Attached BQ sitting on 400sqm', 
-        status: `Avaliable`, 
-        rating: 4.6,
-        location: 'Trade more Estate / Voice of Nigeria Sabon lugbe East Extention',
-        content: `
-         <div>The Entrance together with a line of 4Bedrooms Terrace Duplex with BQ sitting on 250sqm 3.5m for each plot</div>
-         <p>La vie Court Has 2 house Types Duplex and Terrace.</p>
-        `
-    },
- 
+  
 ]
