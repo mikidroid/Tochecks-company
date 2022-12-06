@@ -8,8 +8,8 @@ import GalleryList from "../../../config/gallery-list"
 
 export default function Gallery(){
   
-        let title = 'Gallary',
-        description = 'Media section containing visual data of our process';
+        let title = 'View Our Estate Packages',
+        description = 'We Have Amazing Estate Packages For You To Check Out';
         
         return(
             <React.Fragment>
