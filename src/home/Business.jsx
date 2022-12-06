@@ -104,7 +104,7 @@ class Business extends Component{
 
         return(
             <Fragment> 
-                <Helmet pageTitle="Business" />
+                <Helmet pageTitle="TOCHECKS" />
                 <Header />
                 {/* Start Slider Area   */}
                 <div className="slider-wrapper">
