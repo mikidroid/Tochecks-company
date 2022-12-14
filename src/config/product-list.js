@@ -7,9 +7,9 @@ export default [
         pricing: 'PER-PLOT',
         price:'5M',
         name: '4 Bedrooms Duplex',
-        description: '4 Bedrooms Duplex with Attached BQ sitting on 400sqm', 
+        description: '4 Bedrooms Duplex with Attached BQ sitting on 450SQM', 
         status: `Avaliable`, 
-        rating: 4.6,
+        rating: '5.0',
         location: 'Trade more Estate / Voice of Nigeria Sabon lugbe East Extention',
         content: `
          <div>The Entrance together with a line of 4Bedrooms Terrace Duplex with BQ sitting on 250sqm 3.5m for each plot</div>
@@ -23,10 +23,10 @@ export default [
         discount: 25, category: 'La vie Court',
         pricing: 'PER-PLOT',
         price:'3.5M',
-        name: '4Bedrooms Terrace Duplex',
-        description: 'It’s a 4Bedrooms Terrace Duplex with BQ sitting on 250SQM', 
+        name: '4 Bedrooms Duplex',
+        description: 'It’s a 4 Bedrooms Duplex with Attached BQ sitting on 500SQM', 
         status: `Avaliable`, 
-        rating: 4.6,
+        rating: '5.0',
         location: 'Trade more Estate / Voice of Nigeria Sabon lugbe East Extention',
         content: ` 
         `
@@ -38,8 +38,8 @@ export default [
         discount: 25, category: 'LA VIE DIAMOND',
         pricing: 'PER-PLOT',
         price: '5.5M',
-        name: '4 Bedrooms Duplex',
-        description: 'It is a 4 Bedrooms Duplex with an attached Bq Sitting on 470SQM', 
+        name: '6 Bedrooms Duplex',
+        description: 'It is a 6 Bedrooms Duplex with Attached BQ sitting on 600SQM', 
         status: `Avaliable`, 
         rating: '5.0',
         location: 'Trade more Estate / Voice of Nigeria Sabon lugbe East Extention',
@@ -54,8 +54,8 @@ export default [
         discount: 25, category: 'LA VIE ESTATE',
         pricing: 'NET PRICE',
         price:'8M',
-        name: '5 Bedrooms Duplex',
-        description: 'It is a 5 Bedroom Duplex with 2 rooms and BQ sitting on 600SQM', 
+        name: '4 Bedrooms Duplex',
+        description: 'It is a 4 Bedrooms Duplex with Attached BQ sitting on 300SQM', 
         status: `Avaliable`, 
         rating: '5.0',
         location: 'Sabon lugbe East Extention beside Shallom Estate on Trademore / Voice of Nigeria Road',
@@ -71,15 +71,15 @@ export default [
         discount: 25, category: 'LA VIE ESTATE',
         pricing: 'PER-PLOT',
         price:'5M',
-        name: '4/5 Bedrooms Penthouse',
-        description: 'It is a 4 Bedrooms Duplex with Attached Bq. sitting on 450sqm', 
+        name: '5 Bedrooms Duplex',
+        description: 'It is a 5 Bedrooms Duplex with Attached BQ sitting on 500SQM', 
         status: `Avaliable`, 
         rating: '5.0',
         location: 'Shallom Estate Sabon lugbe East Extention',
         content: `
          
         `
-    },
+    },/*
      {
         image: 6,
         images: [1,2,3
@@ -112,5 +112,5 @@ export default [
 
         `
     },
-  
+  */
 ]
