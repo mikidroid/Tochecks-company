@@ -68,12 +68,7 @@ const ServiceListOne = [
         icon: "icon-01.png",
         title: 'General Cleaning Services',
         description: 'Cleaning is an integral part of any Estate and it is required to keep up High pressure water cleaning the appearance and create an ambient Carpet cleaning and shampooing atmosphere for those living there.'
-    },
-      {
-        icon: "icon-02.png",
-        title: 'Fumigation Service',
-        description: 'At the forefront of the wellness industry is Tochecks integrated Services, taking innovative measures with international best practices to tackle pests and prevent further infestation of the environment.'
-    },
+    }
 ]
 
 class Business extends Component{

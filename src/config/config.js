@@ -6,7 +6,7 @@ export default {
    email:'',
    company_email:'tochecksintegrated@gmail.com',
    address:'',
-   company_address:'SUITE C2, CITRUS MALL CADUNA ABUJA',
+   company_address:'SUITE C02, CITRUS MALL GADUWA ABUJA',
    site_name:'Tochecks',
    smtp_host:'mail.tochecks.com',
    mail_username:'support@tochecks.com',

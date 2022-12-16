@@ -8,8 +8,8 @@ import ProductList from "../../../config/product-list"
 
 export default function Portfolio(){
   
-        let title = 'Latest Deals',
-        description = 'Check out the best deals from us with amazing prices';
+        let title = 'Avaliable Plots',
+        description = 'Check out our latest available plots';
         return(
             <React.Fragment>
                 <div id="portfolio" className="portfolio-wrapper">
